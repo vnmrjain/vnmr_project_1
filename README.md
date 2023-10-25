@@ -1,2 +1,2 @@
-This is my first projetc 
+This is my first project
 Author - Vinamra jain
